@@ -67,4 +67,4 @@ Prettify JSON objects for easier reading.
     ```
 
 ---
-*Made with ❤️ by Techniman*
+*Made with ❤️ by Techniman & Gemini*
