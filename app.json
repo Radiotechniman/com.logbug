@@ -8,6 +8,7 @@
   "author": {
     "name": "Techniman"
   },
+  "sdk": 3,
   "compatibility": ">=10.0.0",
   "description": {
     "en": "Advanced Flow Debugger & Logger",
