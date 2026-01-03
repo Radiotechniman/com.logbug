@@ -30,7 +30,7 @@
     "actions": [
       {
         "id": "log_tag",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Log Text / Any Tag",
           "nl": "Log Tekst / Alles"
@@ -52,7 +52,7 @@
       },
       {
         "id": "log_number",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Log Number Tag",
           "nl": "Log Getal / Cijfer"
@@ -74,7 +74,7 @@
       },
       {
         "id": "log_json",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Log JSON Object",
           "nl": "Log JSON Object"
@@ -96,7 +96,7 @@
       },
       {
         "id": "stopwatch_start",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Start Stopwatch",
           "nl": "Start Stopwatch"
@@ -122,7 +122,7 @@
       },
       {
         "id": "stopwatch_stop",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Stop & Log Stopwatch",
           "nl": "Stop & Log Stopwatch"
@@ -144,7 +144,7 @@
       },
       {
         "id": "inspect_type",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Inspect Type",
           "nl": "Inspecteer Type"
@@ -166,7 +166,7 @@
       },
       {
         "id": "check_url",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Check URL Status",
           "nl": "Check URL Status"
@@ -189,7 +189,7 @@
       },
       {
         "id": "eval_math",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Evaluate Math/JS",
           "nl": "Bereken Som/JS"
@@ -211,7 +211,7 @@
       },
       {
         "id": "log_diff",
-        "icon": "assets/card_icon.svg",
+        "icon": "assets/card_icon.png",
         "title": {
           "en": "Log Difference",
           "nl": "Log Verschil"
